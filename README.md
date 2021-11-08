@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-42
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in making bots
 - 🌱 I’m currently learning python and C++
 - 📫 Reach me at telegram.me/Pydltya
